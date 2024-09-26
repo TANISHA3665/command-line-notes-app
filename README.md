@@ -17,7 +17,7 @@ To get started with the Notes App, follow these steps:
 
    ```bash
    git clone https://github.com/TANISHA3665/command-line-notes-app
-   cd notes-app
+   cd command-line-notes-app
    ```
 
 2. **Install dependencies**:
